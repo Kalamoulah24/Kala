@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Page {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#logo {
+	height: 100px;
+	background-color: #333333;
+	color: #333333;
+}
+#menu li a:hover {
+	background-color: #628200;
+}
+#menu li.active a {
+	background-color: #628200;
+}
+#Pied {
+}
+
+#menu {
+	background-color: #99CC00;
+	height: 25px;
+}
+#Contenu {
+}
+#Pied {
+	background-color: #999999;
+	height: 30px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-top: 5px;
+}
+#Pied {
+}
+
+#logo h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding: 20px;
+}
+.bloc {
+	padding: 0px;
+	float: left;
+	width: 200px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.clear {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+}
+
+#menu ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+#menu li {
+	display: inline;
+}
+#menu li a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	display: block;
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 5px;
+}
+.img-left {
+	float: left;
+	height: 202px;
+	width: 420px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.img-left {
+	float: left;
+	height: 202px;
+	width: 420px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.img-left {
+	float: left;
+	height: 202px;
+	width: 420px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+#Page #Contenu .bloc iframe {
+	height: 300px;
+	width: 300px;
+}
+#Page #Contenu .bloc iframe {
+	height: 280px;
+	width: 280px;
+}
